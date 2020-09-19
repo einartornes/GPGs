@@ -1,0 +1,2 @@
+# GPGs
+Globale fellesgoder
